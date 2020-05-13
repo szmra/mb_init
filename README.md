@@ -1,5 +1,4 @@
 ## Installation
-  1. Install homebrew.
-    ansible-playbook main.yml -i inventory -K --tags "dotfiles,homebrew"
+  1. Install homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
     
  
