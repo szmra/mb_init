@@ -1,4 +1,9 @@
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias g="git"
 alias ws="~/Workspace"
+alias gd='cd "/Volumes/GoogleDrive/My Drive/"'
+alias g="git"
+
+# tar current folder and place it up one directory
+alias tarcd='base=$(basename $PWD);cd ..;tar -czf $base.tar.gz $base'
+
