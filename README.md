@@ -7,3 +7,5 @@
   `sudo python get-pip.py`  
   `sudo pip install ansible`  
  
+## Not Automated
+  1. Notification Settings (ex imessage previews)
